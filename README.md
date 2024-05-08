@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahy-31
 - 👀 I’m interested in competitive programming and web development.
 - 🌱 I’m currently learning competitve programming.
-- 📫 How to reach me mahameenu3112@gmail.com
+- 📫 How to reach me mahalakshmi0ramesh@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
