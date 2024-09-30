@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahy-31
+- 👋 Hi, I’m Mahalakshmi from NIT  Trichy.
 - 👀 I’m interested in competitive programming and web development.
 - 🌱 I’m currently learning competitve programming.
 - 📫 How to reach me mahalakshmi0ramesh@gmail.com
