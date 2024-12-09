@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahalakshmi from NIT  Trichy.
-- 👀 I’m interested in competitive programming and web development.
-- 🌱 I’m currently learning competitve programming.
+- 👀 I’m interested in cloud computing.
+- 🌱 I’m currently learning cloud computing.
 - 📫 How to reach me mahalakshmi0ramesh@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
